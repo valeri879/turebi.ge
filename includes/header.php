@@ -14,7 +14,7 @@
 
     <!--scripts-->
     <script type="text/javascript" src="js/jquery.min.js"></script>
-</head>
+</head> 
 <body>
 
 <nav class="navbar navbar-default">
