@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="../css/fonts.css">
     <link rel="stylesheet" href="../css/style.css">
 
+    <!--scripts-->
+    <script type="text/javascript" src="../js/jquery.min.js"></script>
 </head>
 <body>
 
